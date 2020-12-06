@@ -1,5 +1,5 @@
   
-//programa que verifica se a objeto casa com o parafuso, um exemplo real do uso:
+//programa que verifica se a objeto pode ser empacotado, um exemplo real do uso:
 
 
 
